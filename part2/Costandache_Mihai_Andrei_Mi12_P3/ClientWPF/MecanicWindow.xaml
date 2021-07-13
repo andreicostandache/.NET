@@ -1,0 +1,18 @@
+﻿<Window x:Class="ClientWPF.MecanicWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+        Title="Mecanic" Height="300" Width="500">
+    <Grid>
+        <Label x:Name="mecanicIdLabel" Content="MecanicId" HorizontalAlignment="Left" Margin="127,50,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="mecanicIdTextBox" HorizontalAlignment="Left" Height="23" Margin="203,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="numeLabel" Content="Nume" HorizontalAlignment="Left" Margin="127,107,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="numeTextBox" HorizontalAlignment="Left" Height="23" Margin="203,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="140"/>
+        <Label x:Name="prenumeLabel" Content="Prenume" HorizontalAlignment="Left" Margin="127,169,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="prenumeTextBox" HorizontalAlignment="Left" Height="23" Margin="203,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="140"/>
+        <Button x:Name="button" Content="Executa" HorizontalAlignment="Left" Margin="203,228,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

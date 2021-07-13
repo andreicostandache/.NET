@@ -1,0 +1,22 @@
+﻿<Window x:Class="ClientWPF.AutoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+        Title="Auto" Height="450" Width="500">
+    <Grid Margin="0,0,-0.4,0">
+        <Label x:Name="autoIdLabel" Content="AutoId" HorizontalAlignment="Left" Margin="36,56,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" RenderTransformOrigin="0.741,0.875"/>
+        <TextBox x:Name="autoIdTextBox" HorizontalAlignment="Left" Height="23" Margin="141,56,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="numarAutoLabel" Content="NumarAuto" HorizontalAlignment="Left" Margin="36,120,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="numarAutoTextBox" HorizontalAlignment="Left" Height="23" Margin="141,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center"  Width="140"/>
+        <Label x:Name="sasiuIdLabel" Content="SasiuId" HorizontalAlignment="Left" Margin="36,192,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" RenderTransformOrigin="0.423,4.834"/>
+        <TextBox x:Name="sasiuIdTextBox" HorizontalAlignment="Left" Height="23" Margin="141,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="serieSasiuLabel" Content="SerieSasiu" HorizontalAlignment="Left" Margin="36,256,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" RenderTransformOrigin="0.356,0.943"/>
+        <TextBox x:Name="serieSasiuTextBox" HorizontalAlignment="Left" Height="23" Margin="141,258,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="305"/>
+        <Label x:Name="clientIdLabel" Content="ClientId" HorizontalAlignment="Left" Margin="36,319,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="clientIdTextBox" HorizontalAlignment="Left" Height="23" Margin="141,319,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Button x:Name="button" Content="Executa" HorizontalAlignment="Left" Margin="224,372,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

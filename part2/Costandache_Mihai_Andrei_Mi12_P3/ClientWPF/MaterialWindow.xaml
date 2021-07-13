@@ -1,0 +1,22 @@
+﻿<Window x:Class="ClientWPF.MaterialWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+        Title="Material" Height="350" Width="500">
+    <Grid>
+        <Label x:Name="materialIdLabel" Content="MaterialId" HorizontalAlignment="Left" Margin="124,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.53,0.438" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="materialIdTextBox" HorizontalAlignment="Left" Height="23" Margin="238,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="denumireLabel" Content="Denumire" HorizontalAlignment="Left" Margin="124,87,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="denumireTextBox" HorizontalAlignment="Left" Height="23" Margin="238,88,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="cantitateLabel" Content="Cantitate" HorizontalAlignment="Left" Margin="124,135,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="cantitateTextBox" HorizontalAlignment="Left" Height="23" Margin="238,135,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="pretLabel" Content="Pret" HorizontalAlignment="Left" Margin="124,188,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="pretTextBox" HorizontalAlignment="Left" Height="23" Margin="238,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Label x:Name="dataAprovizionareLabel" Content="DataAprovizionare" HorizontalAlignment="Left" Margin="124,236,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="dataAprovizionareTextBox" HorizontalAlignment="Left" Height="23" Margin="238,236,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="120"/>
+        <Button x:Name="button" Content="Executa" HorizontalAlignment="Left" Margin="221,281,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

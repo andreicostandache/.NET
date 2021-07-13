@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5b4cff72d09440cd9a72a015c332c22f" Name="Diagram1" >
+        <EntityTypeShape EntityType="ModelService.Client" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="ModelService.Auto" Width="1.5" PointX="2.625" PointY="0.5" />
+        <EntityTypeShape EntityType="ModelService.Sasiu" Width="1.5" PointX="4.75" PointY="0.5" />
+        <EntityTypeShape EntityType="ModelService.Mecanic" Width="1.5" PointX="8.5" PointY="3.25" />
+        <EntityTypeShape EntityType="ModelService.Material" Width="1.5" PointX="6.875" PointY="0.875" />
+        <EntityTypeShape EntityType="ModelService.Imagine" Width="1.5" PointX="4.375" PointY="3.625" />
+        <EntityTypeShape EntityType="ModelService.Operatie" Width="1.5" PointX="8.625" PointY="5.75" />
+        <EntityTypeShape EntityType="ModelService.Comanda" Width="1.5" PointX="2" PointY="3.875" />
+        <EntityTypeShape EntityType="ModelService.DetaliuComanda" Width="1.5" PointX="6.5" PointY="3.625" />
+        <AssociationConnector Association="ModelService.ClientAuto" />
+        <AssociationConnector Association="ModelService.SasiuAuto" />
+        <AssociationConnector Association="ModelService.ClientComanda" />
+        <AssociationConnector Association="ModelService.AutoComanda" />
+        <AssociationConnector Association="ModelService.ComandaDetaliuComanda" />
+        <AssociationConnector Association="ModelService.MecanicDetaliuComanda" />
+        <AssociationConnector Association="ModelService.MaterialDetaliuComanda" />
+        <AssociationConnector Association="ModelService.OperatieDetaliuComanda" />
+        <AssociationConnector Association="ModelService.ImagineDetaliuComanda" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
