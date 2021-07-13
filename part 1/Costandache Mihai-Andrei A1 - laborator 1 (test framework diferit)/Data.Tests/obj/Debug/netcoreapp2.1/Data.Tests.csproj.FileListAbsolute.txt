@@ -1,0 +1,17 @@
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.csprojAssemblyReference.cache
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.csproj.CoreCompileInputs.cache
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.AssemblyInfoInputs.cache
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.AssemblyInfo.cs
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.Tests.deps.json
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.Tests.runtimeconfig.json
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.Tests.runtimeconfig.dev.json
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.Tests.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.Tests.pdb
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.csproj.CopyComplete
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.dll
+C:\Users\andrew\Desktop\Costandache Mihai-Andrei A1 - laborator 1 (test framework diferit)\Data.Tests\obj\Debug\netcoreapp2.1\Data.Tests.pdb
